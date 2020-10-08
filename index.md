@@ -3,7 +3,8 @@
 For some reason I had to edit index.md to get to this. I don't know how to show the post or link it correctly.
 
 My index.html doesn't seem to work... I don't know what's going on. Below is just the filler text this file came with.
-___________________
+
+***
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
