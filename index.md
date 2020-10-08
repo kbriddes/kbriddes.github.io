@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## Something is wrong
 
-You can use the [editor on GitHub](https://github.com/kbriddes/kbriddes.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+For some reason I had to edit index.md to get to this. I don't know how to show the post or link it correctly.
+
+Is there a way to fix this? The stuff after this is all filler from **index.md**  
+
+Is it because this is the master branch? That makes sense.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
