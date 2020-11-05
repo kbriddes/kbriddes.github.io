@@ -1,3 +1,24 @@
+.nav-content {
+  display: flex;
+  font-family: 'Source Serif Pro', serif; 
+}
+
+.nav-link {
+ display: block;
+ width: 20%; 
+ color: white; 
+ text-align: right; 
+}
+
+.page-header {
+ background-image: url("/assets/images/DSC_0231.jpg");
+ background-size: cover;
+ font-family: 'Source Serif Pro', serif; 
+}
+
 body {
-  color: red;
-  }
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+
+
