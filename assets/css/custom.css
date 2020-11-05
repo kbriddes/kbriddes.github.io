@@ -11,14 +11,15 @@
 }
 
 .page-header {
- background-image: url("/assets/images/DSC_0231.jpg");
- background-size: cover;
+ background-image: url("/assets/images/gaia-header.jpg");
+ background-size: contain;
  font-family: 'Montserrat Black', sans-serif; 
 }
 
 body {
   font-family: 'Montserrat Regular', sans-serif;
 }
+
 
 
 
