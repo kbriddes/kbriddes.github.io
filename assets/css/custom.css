@@ -18,8 +18,21 @@
 
 body {
   font-family: 'Montserrat Regular', sans-serif;
+   background-color: ededef;
 }
 
 
+.sect-wrap {
+    display: flex;
 
+  .text-wrap {
+        flex: 1;
+        display: flex;
+        align-items: center;
+       
+    }
+    .bg-img {
+        flex: 1;
+    }
+}
 
