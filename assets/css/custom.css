@@ -7,8 +7,14 @@
  display: block;
  width: 20%; 
  color: black; 
- text-align: right; 
+ text-align: center; 
+ font-family: 'Monsterrat', sans-serif;
 }
+
+a :hover{
+  color:ededef;
+}
+  
 
 .page-header {
  background-image: url("/assets/images/gaia-header.jpg");
