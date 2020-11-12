@@ -43,6 +43,13 @@ body {
     }
 }
 
+.icon-sect {
+  background-color: #ef897b;
+  text-align: center;
+  color: white;
+  display: flex;
+}
+
 .butt {
   background-color: #ef897b;
   border: none;
@@ -68,10 +75,6 @@ body {
   font-family: 'Montserrat Black', sans-serif;
 }
 
-.icon-sect {
-  background-color: #ef897b;
-  text-align: center;
-  color: white;
-}
+
   
 
