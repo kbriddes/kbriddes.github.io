@@ -64,9 +64,14 @@ body {
 
 .main-content h2 {
   color: black;
-  text-alight: left;
+  text-align: left;
   font-family: 'Montserrat Black', sans-serif;
 }
 
+.icon-sect main {
+  background-color: #ef897b;
+  text-align: center;
+  color: white;
+}
   
 
