@@ -20,7 +20,6 @@ a:hover {
 .page-header {
  background-image: url("/assets/images/gaia-header.jpg");
  background-size: contain;
- font-family: 'Montserrat Black', sans-serif; 
  color: white; 
 }
 
@@ -58,12 +57,14 @@ body {
 
 .main-content h1 {
   color: white; 
-  text-align: left;
+  text-align: center;
+  font-family: 'Monsterrat Black', sans-serif;
 }
 
 .main-content h2 {
-  color: white;
+  color: black;
   text-alight: left;
+  font-family: 'Monsterrat Bold', sans-serif;
 }
 
   
