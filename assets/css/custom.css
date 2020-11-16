@@ -76,7 +76,7 @@ body {
   font-family: 'Montserrat Black', sans-serif;
 }
 
-.main-content h2 {
+.main-content h3 {
   color: black;
   
   font-family: 'Montserrat Bold', sans-serif;
@@ -86,30 +86,34 @@ body {
  .sect-items {
    padding-top: 1em;         
    margin-top: 2em;
-         margin-bottom: 2em;
+   margin-bottom: 2em;
+}
    
 
-            h2 {
+.sect-items h2 {
                 text-align: center;
                 
-            }
-            .items {
-                margin: 1em auto;
+}
 
-                .item {
-                    margin: 0 0 3em 0;
-                    text-align: center;
-                    padding: 0 1em;
-                    display: block;
+ .items {
+   margin: 1em auto;
+}
 
-                    .top {
-                         float: left;
-                         width: 33.33%;
-                          
-                        }
+.item {
+   margin: 0 0 3em 0;
+   text-align: center;
+   padding: 0 1em;
+   display: block;
+}
+
+ .top {
+   float: left;
+   width: 33.33%;
+}
                   
-                        h3 {
-                            margin-bottom: .5em;
+.top h3 {
+   margin-bottom: .5em;
+}
 
 
   
