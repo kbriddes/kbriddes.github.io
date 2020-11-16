@@ -97,6 +97,8 @@ body {
 
  .items {
    margin: 1em auto;
+   display: block;
+   width: 90%;
 }
 
 .item {
@@ -108,7 +110,8 @@ body {
 
  .top {
    float: left;
-   width: 33.33%;
+   width: 50%;
+   
 }
                   
 .top h3 {
