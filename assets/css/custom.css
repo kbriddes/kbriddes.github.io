@@ -123,6 +123,11 @@ body {
   margin-top: .3em;
 }
 
-
-  
+footer {
+  background-color:#B16456;
+  text-align: center;"
+  color: white;
+  padding: 4px;
+  display: inline-block;
+}
 
