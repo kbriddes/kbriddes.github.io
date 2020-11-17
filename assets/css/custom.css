@@ -123,11 +123,14 @@ body {
   margin-top: .3em;
 }
 
-footer {
+.main-content footer {
   background-color:#B16456;
-  text-align: center;"
+  text-align: center;
   color: white;
-  padding: 4px;
+  padding: 8px;
   display: block;
+  font-family: 'Montserrat Bold', sans-serif;
+  font-size: 10px;
+  
 }
 
