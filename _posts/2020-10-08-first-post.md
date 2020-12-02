@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Why do I even try
+title: GAIA Update
 ---
 
-This is my **first post** Please be nice I'm new.
+There is no update! This is just filler so you think I have a blog site but actually this site doesn't really need a blog.
 
-[Here's a website I like](http://seriouseats.com)
+
